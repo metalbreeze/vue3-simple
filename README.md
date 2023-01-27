@@ -15,6 +15,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+需要npm 大于 16版本
 
 ```sh
 npm install
