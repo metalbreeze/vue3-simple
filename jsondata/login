@@ -1,0 +1,22 @@
+{
+  "code": "1",
+  "msg": "登录成功",
+  "data": {
+    "userTable": {
+      "id": 3,
+      "org_id": 6,
+      "name": "孩子1",
+      "user": "child1",
+      "password": "child",
+      "authority": "Child",
+      "birthday": "2015-02-01",
+      "gender": "Female",
+      "relation": "parent",
+      "school": null,
+      "course": null,
+      "remember": "remember",
+      "photo": ""
+    },
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjaGlsZDEiLCJleHAiOjE2NzQ3MzM2NDR9.YwERM3TPaIzTO-jJ14Vbq3Txdz9c4IMPgcIMpf9GsNQ"
+  }
+}
